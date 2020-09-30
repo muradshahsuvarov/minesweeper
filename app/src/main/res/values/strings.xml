@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">minisweaperIQULTEv2</string>
+    <string name="app_name">Minesweeper</string>
+    <string name="restart_name">Restart</string>
 </resources>
